@@ -113,6 +113,7 @@ define(['./lib/Bio.Library.Search', 'N'],
 
                     // Debug
                     console.log('ultimoPrecioCompraSoles', ultimoPrecioCompraSoles);
+                    return;
 
                     // Validar ultimo precio de compra
                     if (ultimoPrecioCompraSoles) {
